@@ -1,5 +1,6 @@
 # Continuous Control - Reacher Environment
-This project solves the continuous control problem for the Reacher environment with Deep Deterministic Policy Gradients (DDPG).
+This project solves the continuous control problem for the Reacher environment with Deep Deterministic Policy Gradients (DDPG). The GIF below shows the trained agents based on the solution from this repository.
+![Trained_Agent](reacher_trained_agents.gif)
 
 ## Project Details
 We are working with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment in this project. Here is a simple summary of the environment:
